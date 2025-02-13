@@ -1,0 +1,8 @@
+Python Version: 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]
+Pandas Version: 2.2.2
+Numpy Version: 1.26.4
+Scikit-Learn Version: 1.5.1
+Imbalanced-Learn Version: 0.12.3
+XGBoost Version: 2.1.4
+Joblib Version: 1.4.2
+Streamlit Version: 1.37.1
